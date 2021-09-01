@@ -1,0 +1,16 @@
+body
+{
+    margin: auto;
+}
+
+#functions
+{
+    max-width: 200px;
+    margin: 30px auto;
+}
+
+#options
+{
+    margin: auto;
+    max-width: 200px;
+}
